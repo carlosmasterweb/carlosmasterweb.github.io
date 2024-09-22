@@ -1,0 +1,78 @@
+a {
+    font-family: "Poppins", sans-serif;
+    box-sizing: border-box !important;
+    font-size: 20px;
+    text-decoration: none;
+    display: inline-flex;
+    width: auto;
+}
+
+[role="contentinfo"] {
+    font-family: "Poppins", sans-serif;
+    box-sizing: border-box !important;
+    font-size: 22px;
+    text-decoration: none;
+    display: inline-block;
+    width: auto;
+    /* ESTILOS DE LINK DESTACADO */
+    text-align: center;
+    font-weight: 600;
+}
+
+[role=button] {
+    font-family: "Poppins", sans-serif;
+    box-sizing: border-box !important;
+    font-size: 22px;
+    text-decoration: none;
+    display: inline-block;
+    width: auto;
+    /* ESTILOS DE BOTON DEFAULT */
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    text-align: center;
+    font-weight: 600;
+    transition: 0.4s all ease-in-out;
+    padding: 10px 10px;
+    color: black;
+}
+
+button {
+    font-family: "Poppins", sans-serif;
+    box-sizing: border-box !important;
+    font-size: 22px;
+    display: inline-block;
+    width: auto;
+    /* ESTILOS DE BOTON DEFAULT */
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    text-align: center;
+    font-weight: 600;
+    transition: 0.4s all ease-in-out;
+    padding: 10px 10px;
+}
+
+@media (max-width: 768px) {
+
+a {
+    font-size: 18px;
+}
+
+[role="contentinfo"] {
+    font-size: 20px;
+}
+
+[role=button] {
+    font-size: 20px;
+}
+
+button {
+    font-size: 20px;
+}
+
+}
+
+@media (max-width: 425px) {
+
+a {
+    font-size: 16px;
+}
+
+}

@@ -1,0 +1,50 @@
+html {
+    font-family: "Poppins", sans-serif;
+    box-sizing: border-box !important;
+    font-size: 100%;
+    color: black;
+}
+
+header {
+    font-family: "Poppins", sans-serif;
+    box-sizing: border-box !important;
+    font-size: 16px;
+    color: black;
+}
+
+footer {
+    font-family: "Poppins", sans-serif;
+    box-sizing: border-box !important;
+    font-size: 16px;
+    color: black;
+}
+
+section {
+    font-family: "Poppins", sans-serif;
+    box-sizing: border-box !important;
+    font-size: 16px;
+    color: black;
+}
+
+article {
+    font-family: "Poppins", sans-serif;
+    box-sizing: border-box !important;
+    font-size: 16px;
+    box-shadow: none;
+    background: transparent;
+    color: black;
+}
+
+div {
+    font-family: "Poppins", sans-serif;
+    box-sizing: border-box !important;
+    font-size: 16px;
+    color: black;
+}
+
+span {
+    font-family: "Poppins", sans-serif;
+    box-sizing: border-box !important;
+    font-size: 16px;
+    color: black;
+}

@@ -1,0 +1,154 @@
+@import url('page.css');
+@import url('animaciones.css');
+
+/* COMPONENTE */
+
+.portada {
+    background: linear-gradient(180deg, rgba(0, 184, 252, 0.75) 0%, rgba(25, 95, 255, 0.75) 100%), url('../recursos/banner-portada.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /*-------*/
+    height: calc(100vh - 104px);
+    border-radius: 0px 0px 80px 80px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    position: relative;
+}
+
+.portada__contenedor {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    min-width: 90%;
+}
+
+.portada__contenedor > h1 {
+    font-size: 80px;
+    font-weight: 800;
+    color: var(--cuarto-color);
+    text-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.portada__contenedor > h3 {
+    font-size: 40px;
+    font-weight: 800;
+    color: var(--cuarto-color);
+    text-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 10px 0px 20px;
+}
+
+.portada__contenedor > a {
+    background: var(--tercer-color);
+    color: var(--cuarto-color);
+    border-radius: 20px;
+    /*-------*/
+    min-width: 260px;
+}
+
+.portada__contenedor > a:hover {
+    background: var(--segundo-color);
+    animation: wobble 1s infinite;
+}
+
+@media (max-width: 1024px) {
+
+.portada__contenedor > h1 {
+    font-size: 64px;
+}
+
+.portada__contenedor > h3 {
+    font-size: 34px;
+}
+
+.portada__contenedor > a {
+    min-width: 220px;
+}
+
+}
+
+@media (max-width: 768px) {
+
+.portada {
+    border-radius: 0px 0px 60px 60px;
+}
+
+.portada__contenedor > h1 {
+    font-size: 44px;
+}
+
+.portada__contenedor > h3 {
+    font-size: 30px;
+}
+
+}
+
+@media (max-width: 425px) {
+
+.portada__contenedor > h1 {
+    font-size: 40px;
+}
+
+.portada__contenedor > h3 {
+    font-size: 26px;
+}
+
+.portada__contenedor > a {
+    min-width: 200px;
+}
+
+}
+
+/* COMPONENTE */
+
+.texto-enriquecido {
+    margin: 40px 0px 0px 0px;
+    padding: 80px 0px;    
+    background: linear-gradient(180deg, #db2778e2, #ec489ac8), url('../recursos/banner-portada.jpg');
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    text-align: center;
+}
+
+.texto-enriquecido > div {
+    width: 84%;
+    margin: 0px auto 0px auto;
+}
+
+.texto-enriquecido > div > h2{
+    margin: 0px 0px 20px 0px;
+    color: var(--cuarto-color);
+}
+
+.texto-enriquecido > div > div > p{
+    margin: 0px 0px 20px 0px;
+    max-width: 800px;
+    display: inline-block;
+    color: var(--cuarto-color);
+}
+
+.texto-enriquecido > div > a{
+    background: var(--sexto-color);
+    color: var(--cuarto-color);
+    border-radius: 20px;
+    /*-------*/
+    min-width: 260px;
+}
+
+.texto-enriquecido > div > a:hover  {
+    background: var(--cuarto-color);
+    color: var(--sexto-color);
+    animation: wobble 1s infinite;
+}
+
+@media (max-width: 1024px) {
+    
+.texto-enriquecido > div {
+    width: 92%;
+}
+
+.texto-enriquecido > div > a{
+    min-width: 220px;
+}
+
+}

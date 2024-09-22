@@ -1,0 +1,123 @@
+@import url('page.css');
+@import url('animaciones.css');
+
+/* COMPONENTE */
+
+.banner-curso {
+    background: var(--primer-color);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.banner-curso > .contenedor {
+    width: 84%;
+    margin: 40px auto 40px auto;
+    border-radius: 200px;
+
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.banner-curso > .contenedor > div {
+    width: 46%;
+}
+
+.banner-curso > .contenedor > .informacion {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    color: var(--cuarto-color);
+}
+
+.banner-curso > .contenedor > .informacion > h6 {
+    margin: 10px 0px 10px 0px;
+}
+
+.banner-curso > .contenedor > .informacion > p {
+    text-align: justify;
+}
+
+.banner-curso > .contenedor > .portada {
+    display: flex;
+    align-items: center;
+}
+
+.banner-curso > .contenedor > .portada > img {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 10px;
+    width: 100%;
+}
+
+@media (max-width: 1024px) {
+
+.banner-curso > .contenedor {
+    width: 92%;
+}
+
+.banner-curso > .contenedor > .informacion {
+    width: 56%;
+}
+
+.banner-curso > .contenedor > .portada {
+    width: 42%;
+}
+
+}
+
+@media (max-width: 970px) {
+
+.banner-curso > .contenedor {
+    flex-direction: column-reverse;
+    gap: 20px;
+}
+
+.banner-curso > .contenedor > .informacion {
+    width: 100%;
+}
+
+.banner-curso > .contenedor > .portada {
+    width: 100%;
+}
+
+}
+
+/* COMPONENTE */
+
+.listado-cursos {
+    width: 84%;
+    margin: 40px auto 0px auto;
+}
+
+.listado-cursos > h3 {
+    text-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.listado-cursos > div {
+    background: var(--cuarto-color);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 10px;
+    margin: 10px auto 10px auto;
+    padding: 10px;
+}
+
+.listado-cursos > div {
+    color: var(--sexto-color);
+}
+
+.listado-cursos > div > a {
+    font-weight: 400;
+    display: block;
+    color: var(--sexto-color);
+
+    &:hover {
+        color: var(--primer-color);
+    }
+}
+
+@media (max-width: 1024px) {
+
+.listado-cursos {
+    width: 92%;
+}
+
+}

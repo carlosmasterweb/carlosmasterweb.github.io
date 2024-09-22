@@ -1,0 +1,24 @@
+dialog {
+    font-family: "Poppins", sans-serif;
+    box-sizing: border-box !important;
+    /* PROPIEDADES */
+    width: 100%;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.4);
+    z-index: 2;
+    position: fixed;
+    /* ESTILOS DEFAULT */
+    display: none;
+}
+
+dialog[open] {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+dialog > div {
+    background: white;
+    text-align: center;
+    padding: 10px 10px;
+}

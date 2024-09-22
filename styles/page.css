@@ -1,0 +1,148 @@
+/* COMPONENTE */
+
+.pagina {
+    background: var(--quinto-color);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* COMPONENTE */
+
+.header {
+    position: sticky;
+    top: 0;
+    z-index: 2;
+}
+
+.menu {
+    height: 100px;
+    padding: 0px 40px;
+    /*-------*/
+    background: var(--cuarto-color);
+    border-bottom: 10px solid var(--tercer-color);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    /*-------*/
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.menu__logo {
+    width: 80px;
+    height: 80px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 30px;
+}
+
+.menu__enlaces {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.menu__enlaces > a {
+    color: var(--primer-color);
+    text-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.menu__boton {
+    background: var(--primer-color);
+    color: var(--cuarto-color);
+    border-radius: 20px;
+    /*-------*/
+    min-width: 160px;
+}
+
+.menu__boton:hover {
+    background: var(--tercer-color);
+    animation: wobble 1s infinite;
+}
+
+.menu__movil {
+    display: none;
+}
+
+@media (max-width: 768px) {
+
+.menu {
+    padding: 0px 20px;
+}
+
+.menu__computer {
+    display: none;
+}
+
+.menu__movil {
+    display: flex;
+}
+
+.menu__evento {
+    background: var(--primer-color);
+    color: var(--cuarto-color);
+    border-radius: 20px;
+    /*-------*/
+    min-width: 60px;
+}
+
+.menu__enlaces {
+    background: var(--tercer-color);
+    border-radius: 0px 0px 180px 180px;
+    width: 100%;
+    /*-------*/
+    flex-direction: column;
+    justify-content: space-evenly;
+    /*-------*/
+    transition: 1s all ease-in-out;
+    position: fixed;
+    overflow: hidden;
+    top: 100px;
+    left: 0;
+    height: 0;
+}
+
+.menu__enlaces > a {
+    color: var(--cuarto-color);
+}
+
+.menu__enlaces--activo {
+    height: calc(100% - 100px);
+    border-radius: 0px;
+}
+
+}
+
+/* COMPONENTE */
+
+.pie-de-pagina {
+    margin: auto 0px 0px 0px;
+}
+
+.pie-de-pagina > div{
+    margin: 40px auto 0px auto;
+    padding: 20px 0px;    
+    background: linear-gradient(180deg, #1d4ed8, #2563EB); 
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    text-align: center;
+}
+
+.pie-de-pagina > div > h3 {
+    color: var(--cuarto-color);
+    text-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.pie-de-pagina > div > p {
+    color: var(--cuarto-color);
+    text-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.pie-de-pagina > div > span {
+    color: var(--cuarto-color);
+    text-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.pie-de-pagina > div > div > a {
+    color: var(--cuarto-color);
+    border-top: 2px solid var(--quinto-color);
+}
