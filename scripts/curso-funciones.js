@@ -292,6 +292,12 @@ function cursoFunciones() {
                         "ruta_titulo": "como-crear-campos-de-texto-con-tkinter",
                         "ruta_presentacion_pdf": "recursos/presentaciones_cursos/curso-python-de-interfaces/como-crear-campos-de-texto-con-tkinter.pdf"
                       },
+                      {
+                        "titulo": "6. Cómo crear ventanas emergentes con Tkinter",
+                        "video": "https://www.youtube.com/embed/20t8jpCs1RQ?si=zlv6bghkqRoaVvsu",
+                        "ruta_titulo": "como-crear-ventanas-emergentes-con-tkinter",
+                        "ruta_presentacion_pdf": "recursos/presentaciones_cursos/curso-python-de-interfaces/como-crear-ventanas-emergentes-con-tkinter.pdf"
+                      },
                     ]
                 },
               ]
