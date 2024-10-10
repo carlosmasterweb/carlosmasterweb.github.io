@@ -298,6 +298,12 @@ function cursoFunciones() {
                         "ruta_titulo": "como-crear-ventanas-emergentes-con-tkinter",
                         "ruta_presentacion_pdf": "recursos/presentaciones_cursos/curso-python-de-interfaces/como-crear-ventanas-emergentes-con-tkinter.pdf"
                       },
+                      {
+                        "titulo": "7. Cómo crear Spinbox con Tkinter",
+                        "video": "https://www.youtube.com/embed/-9tUUXfbygY?si=KLI7-X70et8iYGts",
+                        "ruta_titulo": "como-crear-spinbox-con-tkinter",
+                        "ruta_presentacion_pdf": "recursos/presentaciones_cursos/curso-python-de-interfaces/como-crear-spinbox-con-tkinter.pdf"
+                      },
                     ]
                 },
               ]
