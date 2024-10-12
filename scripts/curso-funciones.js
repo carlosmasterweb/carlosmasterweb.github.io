@@ -304,6 +304,12 @@ function cursoFunciones() {
                         "ruta_titulo": "como-crear-spinbox-con-tkinter",
                         "ruta_presentacion_pdf": "recursos/presentaciones_cursos/curso-python-de-interfaces/como-crear-spinbox-con-tkinter.pdf"
                       },
+                      {
+                        "titulo": "8. Cómo crear Scale con Tkinter",
+                        "video": "https://www.youtube.com/embed/6XHRyAW5aww?si=R5Uq6P2FcJW4namo",
+                        "ruta_titulo": "como-crear-scale-con-tkinter",
+                        "ruta_presentacion_pdf": "recursos/presentaciones_cursos/curso-python-de-interfaces/como-crear-scale-con-tkinter.pdf"
+                      }
                     ]
                 },
               ]
