@@ -309,6 +309,12 @@ function cursoFunciones() {
                         "video": "https://www.youtube.com/embed/6XHRyAW5aww?si=R5Uq6P2FcJW4namo",
                         "ruta_titulo": "como-crear-scale-con-tkinter",
                         "ruta_presentacion_pdf": "recursos/presentaciones_cursos/curso-python-de-interfaces/como-crear-scale-con-tkinter.pdf"
+                      },
+                      {
+                        "titulo": "9. Cómo crear RadioButtons con Tkinter",
+                        "video": "https://www.youtube.com/embed/lawHo7PQWGU?si=_wdxR-Jes0I4rcsB",
+                        "ruta_titulo": "como-crear-radiobuttons-con-tkinter",
+                        "ruta_presentacion_pdf": "recursos/presentaciones_cursos/curso-python-de-interfaces/como-crear-radiobuttons-con-tkinter.pdf"
                       }
                     ]
                 },
