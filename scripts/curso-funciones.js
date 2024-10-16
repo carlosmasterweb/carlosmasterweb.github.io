@@ -315,6 +315,12 @@ function cursoFunciones() {
                         "video": "https://www.youtube.com/embed/lawHo7PQWGU?si=_wdxR-Jes0I4rcsB",
                         "ruta_titulo": "como-crear-radiobuttons-con-tkinter",
                         "ruta_presentacion_pdf": "recursos/presentaciones_cursos/curso-python-de-interfaces/como-crear-radiobuttons-con-tkinter.pdf"
+                      },
+                      {
+                        "titulo": "10. Cómo crear Menus con Tkinter",
+                        "video": "https://www.youtube.com/embed/x_0z-1ehEWI?si=MUam7oxoSVzrPJwE",
+                        "ruta_titulo": "como-crear-menus-con-tkinter",
+                        "ruta_presentacion_pdf": "recursos/presentaciones_cursos/curso-python-de-interfaces/como-crear-menus-con-tkinter.pdf"
                       }
                     ]
                 },
