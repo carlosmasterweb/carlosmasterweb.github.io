@@ -340,8 +340,8 @@ function cursoFunciones() {
                       {
                           "titulo": "1. Curso de fundamentos de programación desde cero🚀​",
                           "video": "https://www.youtube.com/embed/mVn0GyJ3OqM?si=1xa1YGHPguo8tik9",
-                          "ruta_titulo": "curso-de-python-desde-0-para-principiantes-en-2024",
-                          "ruta_presentacion_pdf": "recursos/presentaciones_cursos/curso-python/curso-de-python-desde-0-para-principiantes-en-2024.pdf"
+                          "ruta_titulo": "curso-fundamentos-programacion-desde-cero",
+                          "ruta_presentacion_pdf": "recursos/presentaciones_cursos/curso-fundamentos-programacion/curso-fundamentos-programacion-desde-cero.pdf"
                       }
                     ]
                 }
