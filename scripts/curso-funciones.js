@@ -331,8 +331,8 @@ function cursoFunciones() {
               "estado_curso": "En Proceso",
               "descripcion_curso": "Bienvenido al Curso de Fundamentos de Programación desde Cero. En esta serie aprenderás los conceptos básicos que todo programador necesita dominar: qué es la programación, cómo funcionan los algoritmos, qué son las variables, las estructuras de control, los bucles, funciones y mucho más. No importa si nunca has escrito una línea de código, aquí empezarás desde lo más simple hasta entender cómo se construye un programa paso a paso.",
 
-              "ruta_portada_curso": "./recursos/pics/curso-fundamentos-programacion.png",
-              "ruta_curso": "curso-fundamentos-programacion",
+              "ruta_portada_curso": "./recursos/pics/fundamentos-programacion-cero.png",
+              "ruta_curso": "fundamentos-programacion-cero",
               "temario": [
                 {
                     "seccion": "Bienvenida",
@@ -340,8 +340,8 @@ function cursoFunciones() {
                       {
                           "titulo": "1. Curso de fundamentos de programación desde cero🚀​",
                           "video": "https://www.youtube.com/embed/mVn0GyJ3OqM?si=1xa1YGHPguo8tik9",
-                          "ruta_titulo": "curso-fundamentos-programacion-desde-cero",
-                          "ruta_presentacion_pdf": "recursos/pdfs/curso-fundamentos-programacion/curso-fundamentos-programacion-desde-cero.pdf"
+                          "ruta_titulo": "fundamentos-programacion-cero-inicio",
+                          "ruta_presentacion_pdf": "recursos/pdfs/fundamentos-programacion-cero/fundamentos-programacion-cero-inicio.pdf"
                       }
                     ]
                 }
