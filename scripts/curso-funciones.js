@@ -346,8 +346,8 @@ function cursoFunciones() {
                       {
                           "titulo": "2. Que es la programación 🚀​",
                           "video": "https://www.youtube.com/embed/RU1y2q3NpF4?si=vRlXntIMXYoXNq_-",
-                          "ruta_titulo": "bienvenida-curso",
-                          "ruta_presentacion_pdf": "recursos/pdfs/fundamentos-programacion-cero/01-bienvenida-curso.pdf"
+                          "ruta_titulo": "que-es-la-programacion",
+                          "ruta_presentacion_pdf": "recursos/pdfs/fundamentos-programacion-cero/02-que-es-la-programacion.pdf"
                       }
                     ]
                 }
