@@ -341,7 +341,13 @@ function cursoFunciones() {
                           "titulo": "1. Curso de fundamentos de programación desde cero🚀​",
                           "video": "https://www.youtube.com/embed/mVn0GyJ3OqM?si=1xa1YGHPguo8tik9",
                           "ruta_titulo": "bienvenida-curso",
-                          "ruta_presentacion_pdf": "recursos/pdfs/fundamentos-programacion-cero/bienvenida-curso.pdf"
+                          "ruta_presentacion_pdf": "recursos/pdfs/fundamentos-programacion-cero/01-bienvenida-curso.pdf"
+                      },
+                      {
+                          "titulo": "2. Que es la programación 🚀​",
+                          "video": "https://www.youtube.com/embed/RU1y2q3NpF4?si=vRlXntIMXYoXNq_-",
+                          "ruta_titulo": "bienvenida-curso",
+                          "ruta_presentacion_pdf": "recursos/pdfs/fundamentos-programacion-cero/01-bienvenida-curso.pdf"
                       }
                     ]
                 }
