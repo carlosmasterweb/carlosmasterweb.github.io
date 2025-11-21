@@ -348,6 +348,12 @@ function cursoFunciones() {
                           "video": "https://www.youtube.com/embed/RU1y2q3NpF4?si=vRlXntIMXYoXNq_-",
                           "ruta_titulo": "que-es-la-programacion",
                           "ruta_presentacion_pdf": "recursos/pdfs/fundamentos-programacion-cero/02-que-es-la-programacion.pdf"
+                      },
+                      {
+                          "titulo": "3. Cuál es la lógica de la programación 🚀​",
+                          "video": "https://www.youtube.com/embed/3o4ltt6A4tY?si=d9OSZfrLXzdsu3sx",
+                          "ruta_titulo": "cual-es-la-logica-de-la-programacion",
+                          "ruta_presentacion_pdf": "recursos/pdfs/fundamentos-programacion-cero/02-que-es-la-programacion.pdf"
                       }
                     ]
                 }
