@@ -5,7 +5,7 @@ function cursoFunciones() {
               "nombre_curso": "Curso de Python desde 0 para principiantes",
               "estado_curso": "Finalizado",
               "descripcion_curso": "Este curso está diseñado para quienes desean empezar desde cero en el mundo de la programación con Python. Aprenderás desde los conceptos más básicos hasta temas más avanzados.",
-              "ruta_portada_curso": "./recursos/pics/curso-python.png",
+              "ruta_portada_curso": "curso-python.png",
               "ruta_curso": "curso-python",
               "temario": [
                 {
@@ -234,7 +234,7 @@ function cursoFunciones() {
               "nombre_curso": "Curso de Interfaces Gráficas en Python con Tkinter para principiantes",
               "estado_curso": "En Desarrollo",
               "descripcion_curso": "En este curso aprenderás a crear aplicaciones con interfaces gráficas utilizando la biblioteca Tkinter de Python. A lo largo del curso, dominarás la creación de programas.",
-              "ruta_portada_curso": "./recursos/pics/curso-python-de-interfaces.png",
+              "ruta_portada_curso": "./resources/pics/curso-python-de-interfaces.png",
               "ruta_curso": "curso-python-de-interfaces",
               "temario": [
                 {
@@ -330,8 +330,7 @@ function cursoFunciones() {
               "nombre_curso": "Curso de fundamentos de programación desde cero🚀",
               "estado_curso": "En Proceso",
               "descripcion_curso": "Bienvenido al Curso de Fundamentos de Programación desde Cero. En esta serie aprenderás los conceptos básicos que todo programador necesita dominar: qué es la programación, cómo funcionan los algoritmos, qué son las variables, las estructuras de control, los bucles, funciones y mucho más. No importa si nunca has escrito una línea de código, aquí empezarás desde lo más simple hasta entender cómo se construye un programa paso a paso.",
-
-              "ruta_portada_curso": "./recursos/pics/fundamentos-programacion-cero.png",
+              "ruta_portada_curso": "./resources/pics/fundamentos-programacion-cero.png",
               "ruta_curso": "fundamentos-programacion-cero",
               "temario": [
                 {

@@ -4,7 +4,7 @@
 /* COMPONENTE */
 
 .portada {
-    background: linear-gradient(180deg, rgba(0, 184, 252, 0.75) 0%, rgba(25, 95, 255, 0.75) 100%), url('../recursos/banner-portada.jpg');
+    background: linear-gradient(180deg, rgba(0, 184, 252, 0.75) 0%, rgba(25, 95, 255, 0.75) 100%), url('../resources/banner-portada.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -172,7 +172,7 @@
 .texto-enriquecido {
     margin: 40px 0px 0px 0px;
     padding: 80px 0px;    
-    background: linear-gradient(180deg, #db2778e2, #ec489ac8), url('../recursos/banner-portada.jpg');
+    background: linear-gradient(180deg, #db2778e2, #ec489ac8), url('../resources/banner-portada.jpg');
     box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
     text-align: center;
 }

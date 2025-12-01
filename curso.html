@@ -10,9 +10,9 @@
     <meta name="keywords" content="Una plataforma de aprendizaje, Aprende sobre programación e informática en minutos">
     <meta name="author" content="Carlos Master Web">
     <!-- favicon -->
-    <link rel="apple-touch-icon" href="./recursos/logotipo.png">
-    <link rel="shortcut icon" type="image/x-icon" href="./recursos/logotipo.png">
-    <link rel="shortcut icon" type="image/x-icon" href="./recursos/logotipo.png">
+    <link rel="apple-touch-icon" href="./resources/logotipo.png">
+    <link rel="shortcut icon" type="image/x-icon" href="./resources/logotipo.png">
+    <link rel="shortcut icon" type="image/x-icon" href="./resources/logotipo.png">
     <!-- Style CSS Default -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
     <!-- Style CSS Custom -->
@@ -26,7 +26,7 @@
 
 <header class="header" x-data="generalesFunciones()">
     <nav class="menu menu__computer">
-        <a href="index.html"><img src="./recursos/logotipo.png" alt="Carlos Master Web Logo" loading="lazy" class="menu__logo"></a>
+        <a href="index.html"><img src="./resources/logotipo.png" alt="Carlos Master Web Logo" loading="lazy" class="menu__logo"></a>
         <div class="menu__enlaces">
             <a href="index.html" role="contentinfo">INICIO</a>
             <a href="cursos.html" role="contentinfo">CURSOS</a>
@@ -34,7 +34,7 @@
         <a href="proximamente.html" role="button" class="menu__boton">PRÓXIMAMENTE</a>
     </nav>
     <nav class="menu menu__movil">
-        <a href="index.html"><img src="./recursos/logotipo.png" alt="Carlos Master Web Logo" loading="lazy" class="menu__logo"></a>
+        <a href="index.html"><img src="./resources/logotipo.png" alt="Carlos Master Web Logo" loading="lazy" class="menu__logo"></a>
         <button @click="activarMenu()" class="menu__evento"><i class="bi bi-list"></i></button>
         <div class="menu__enlaces" id="menu">
             <a href="index.html" role="contentinfo">INICIO</a>
@@ -47,12 +47,12 @@
 <section class="banner-curso">
     <div class="contenedor">
     <div class="informacion">
-        <h3 x-text="curso.nombre_curso"></h3>
-        <h6 x-text="curso.estado_curso"></h6>
-        <p x-text="curso.descripcion_curso"></p>
+        <h3 x-text="curso.nombre"></h3>
+        <h6 x-text="curso.estado"></h6>
+        <p x-text="curso.descripcion"></p>
     </div>
     <div class="portada">
-        <img :src="curso.ruta_portada_curso" alt="Carlos Master Web" width="100">
+        <img :src="`./resources/covers/${curso.portada}`" alt="Carlos Master Web" width="100">
     </div>
     </div>
 </section>
@@ -63,7 +63,7 @@
     <div>
         <h6 x-text="tema.seccion">Introducción:</h6>
         <template x-for="titulo in tema.temas">
-        <a :href="`video.html?curso=${curso.ruta_curso}&titulo=${titulo.ruta_titulo}`" x-text="titulo.titulo"></a>
+        <a :href="`video.html?curso=${curso.ruta}&titulo=${titulo.ruta}`" x-text="titulo.titulo"></a>
         </template>
     </div>
     </template>
@@ -73,12 +73,12 @@
     <div>
         <h3>Carlos Master Web</h3>
         <p>¡Aprende sobre programación e informática en minutos!</p>
-        <span>© Copyright 2008 - 2024 Carlos Master Web. Todos los derechos reservados</span>
+        <span>© Copyright 2000 - 2025 Carlos Master Web. Todos los derechos reservados</span>
         <div><a href="cursos.html">Cursos</a></div>
     </div>
 </footer>
 
-<script src="./scripts/curso-funciones.js"></script>
+<script src="./scripts/curso-funciones-update.js"></script>
 <script src="./scripts/generales-funciones.js"></script>
 <script src="./scripts/alpine.min.js"></script>
 

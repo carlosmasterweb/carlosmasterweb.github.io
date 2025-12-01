@@ -4,7 +4,7 @@
 /* COMPONENTE */
 
 .portada {
-    background: linear-gradient(180deg, rgba(0, 184, 252, 0.75) 0%, rgba(25, 95, 255, 0.75) 100%), url('../recursos/banner-portada.jpg');
+    background: linear-gradient(180deg, rgba(0, 184, 252, 0.75) 0%, rgba(25, 95, 255, 0.75) 100%), url('../resources/banner-portada.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -143,6 +143,10 @@
 
 .cursos-columna > div > a > h6 {
     padding: 10px 0px;
+}
+
+.cursos-columna > div > a > p {
+    text-align: justify;
 }
 
 @media (max-width: 1024px) {

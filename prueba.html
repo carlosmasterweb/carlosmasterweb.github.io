@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generar Datos</title>
+</head>
+<body>
+
+    <h3>Ingresa un título:</h3>
+    <input type="text" id="tituloInput" placeholder="Ej: 3. Qué es la programación">
+    <button onclick="procesar()">Generar</button>
+
+    <script>
+        function generarDatos(titulo) {
+            // Obtener número
+            const numero = titulo.match(/^\d+/)?.[0] || "0";
+            const numeroDosDigitos = numero.padStart(2, "0");
+
+            // Quitar "X. " del inicio
+            let limpio = titulo.replace(/^\d+\.\s*/, "");
+
+            // Normalizar texto (quitar acentos)
+            limpio = limpio.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+
+            // Crear ruta
+            const ruta = limpio
+                .toLowerCase()
+                .replace(/[^a-z0-9\s-]/g, "")
+                .trim()
+                .replace(/\s+/g, "-");
+
+            // PDF
+            const pdf = `${numeroDosDigitos}-${ruta}.pdf`;
+
+            return { ruta, pdf };
+        }
+
+        function procesar() {
+            const titulo = document.getElementById("tituloInput").value;
+            const resultado = generarDatos(titulo);
+            console.log(resultado);
+        }
+    </script>
+
+    <style>
+        #tituloInput {
+            width: 80%;
+            font-size: 28px;
+        }
+    </style>
+
+</body>
+</html>
