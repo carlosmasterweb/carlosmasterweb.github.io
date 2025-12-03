@@ -202,26 +202,58 @@ function cursoFunciones() {
                 },
                 {
                     "titulo": "4. Como hacer comentarios",
-                    "video": "https://www.youtube.com/embed/jUYOIawuN9I?si=wPeybE3OnkpqUfY8",
+                    "video": "https://www.youtube.com/embed/jUYOIawuN9I?si=8hg0oLZ8MY1h7bB3",
                     "ruta": "como-hacer-comentarios",
                     "pdf": "04-como-hacer-comentarios.pdf"
-                },
-                
+                }]
+            }, {
+                "seccion": "Lógica y algoritmos",
+                "temas": [
                 {
-                    "titulo": "5. Cómo se crea un programa desde cero",
-                    "video": "https://www.youtube.com/embed/3tKHnwYbcFI?si=JKgkS0by4DUpu2r6",
-                    "ruta": "como-se-crea-un-programa-desde-cero",
-                    "pdf": "05-como-se-crea-un-programa-desde-cero.pdf"
+                    "titulo": "5. Cuáles son los tipos de datos",
+                    "video": "https://www.youtube.com/embed/IK5twsoaoAc?si=2TX4Guq3ISFRsiR_",
+                    "ruta": "cuales-tipos-datos",
+                    "pdf": "05-cuales-tipos-datos.pdf"
                 },
                 {
-                    "titulo": "6. Que son los lenguajes de programación",
-                    "video": "https://www.youtube.com/embed/J4kI-OAVpkk?si=P5cGJFw2oc1KoTMm",
-                    "ruta": "que-son-los-lenguajes-programacion",
-                    "pdf": "06-que-son-los-lenguajes-programacion.pdf"
+                    "titulo": "6. Cómo cambiar los tipos de datos",
+                    "video": "https://www.youtube.com/embed/fsUTUCv42q8?si=sVerzMg5nAg1vLY4",
+                    "ruta": "como-cambiar-tipos-datos",
+                    "pdf": "06-como-cambiar-tipos-datos.pdf"
+                },
+
+                {
+                    "titulo": "7. Qué",
+                    "video": "",
+                    "ruta": "que",
+                    "pdf": "07-que.pdf"
+                },
+                {
+                    "titulo": "8. Cuáles",
+                    "video": "",
+                    "ruta": "cuales",
+                    "pdf": "08-cuales.pdf"
+                },
+                {
+                    "titulo": "9. Cómo",
+                    "video": "",
+                    "ruta": "como",
+                    "pdf": "09-como.pdf"
+                },
+                {
+                    "titulo": "10. Qué",
+                    "video": "",
+                    "ruta": "que",
+                    "pdf": "10-que.pdf"
+                },
+                {
+                    "titulo": "11. Como",
+                    "video": "",
+                    "ruta": "como",
+                    "pdf": "11-como.pdf"
                 }
                 ]
-            },
-            ]
+            }]
         }
     ],
 
