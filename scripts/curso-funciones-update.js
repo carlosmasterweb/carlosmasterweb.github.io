@@ -221,12 +221,11 @@ function cursoFunciones() {
                     "ruta": "como-cambiar-tipos-datos",
                     "pdf": "06-como-cambiar-tipos-datos.pdf"
                 },
-
                 {
-                    "titulo": "7. Qué",
-                    "video": "",
-                    "ruta": "que",
-                    "pdf": "07-que.pdf"
+                    "titulo": "7. Cómo definir y mostrar el valor de una variable",
+                    "video": "https://www.youtube.com/embed/_-grvQn4Bcg?si=xH7V_mCkPI4Gz1Vb",
+                    "ruta": "como-definir-variable",
+                    "pdf": "07-como-definir-variable.pdf"
                 },
                 {
                     "titulo": "8. Cuáles",
