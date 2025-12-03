@@ -190,7 +190,7 @@ function cursoFunciones() {
                 },
                 {
                     "titulo": "2. Que es Python",
-                    "video": "https://www.youtube.com/embed/18LGtW91afQ?si=a8CKFwiW63u0uqBf",
+                    "video": "https://www.youtube.com/embed/yTjEAiX98zg?si=xBxE04l00Rd0jjTL",
                     "ruta": "que-es-python",
                     "pdf": "02-que-es-python.pdf"
                 },
