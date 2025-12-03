@@ -188,27 +188,25 @@ function cursoFunciones() {
                     "ruta": "bienvenida-curso",
                     "pdf": "01-bienvenida-curso.pdf"
                 },
-
-
+                {
+                    "titulo": "2. Que es Python",
+                    "video": "https://www.youtube.com/embed/18LGtW91afQ?si=a8CKFwiW63u0uqBf",
+                    "ruta": "que-es-python",
+                    "pdf": "02-que-es-python.pdf"
+                },
+                {
+                    "titulo": "3. Cómo Instalar Python y Visual Studio Code",
+                    "video": "https://www.youtube.com/embed/zMUgJbbLLRw?si=A_H7YRbOOKiACxT-",
+                    "ruta": "como-instalar-python-visual",
+                    "pdf": "03-como-instalar-python-visual.pdf"
+                },
+                {
+                    "titulo": "4. Como hacer comentarios",
+                    "video": "https://www.youtube.com/embed/jUYOIawuN9I?si=wPeybE3OnkpqUfY8",
+                    "ruta": "como-hacer-comentarios",
+                    "pdf": "04-como-hacer-comentarios.pdf"
+                },
                 
-                {
-                    "titulo": "2. Que es la programación​",
-                    "video": "https://www.youtube.com/embed/RU1y2q3NpF4?si=vRlXntIMXYoXNq_-",
-                    "ruta": "que-es-la-programacion",
-                    "pdf": "02-que-es-la-programacion.pdf"
-                },
-                {
-                    "titulo": "3. Cuál es la lógica de la programación​",
-                    "video": "https://www.youtube.com/embed/3o4ltt6A4tY?si=d9OSZfrLXzdsu3sx",
-                    "ruta": "cual-es-logica-programacion",
-                    "pdf": "03-cual-es-logica-programacion.pdf"
-                },
-                {
-                    "titulo": "4. Errores comunes al pensar como programador principiante​",
-                    "video": "https://www.youtube.com/embed/PuGPjlMjvJk?si=VTtW7CFYgjTg0vtX",
-                    "ruta": "errores-comunes-programador-principiante",
-                    "pdf": "04-errores-comunes-programador-principiante.pdf"
-                },
                 {
                     "titulo": "5. Cómo se crea un programa desde cero",
                     "video": "https://www.youtube.com/embed/3tKHnwYbcFI?si=JKgkS0by4DUpu2r6",
