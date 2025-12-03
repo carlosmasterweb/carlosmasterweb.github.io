@@ -1,13 +1,14 @@
 function cursoFunciones() {
-  return {
-      cursos: [
+    return {
+    cursos: [
         {
             "nombre": "Curso de Python desde 0 para principiantes",
             "estado": "Finalizado",
             "descripcion": "Este curso está diseñado para quienes desean empezar desde cero en el mundo de la programación con Python. Aprenderás desde los conceptos más básicos hasta temas más avanzados.",
             "portada": "curso-python.png",
             "ruta": "curso-python",
-            "temario": [
+            "temario": 
+            [
             ]
         },
         {
@@ -16,7 +17,8 @@ function cursoFunciones() {
             "descripcion": "Bienvenido al Curso de Fundamentos de Programación desde Cero. Aprenderás los conceptos básicos que todo programador necesita dominar. No importa si nunca has escrito una línea de código.",
             "portada": "fundamentos-programacion.png",
             "ruta": "fundamentos-programacion",
-            "temario": [{
+            "temario": 
+            [{
                 "seccion": "Bienvenida",
                 "temas": [
                 {
@@ -169,8 +171,61 @@ function cursoFunciones() {
                 }
                 ]
             }]
-          }
-      ],
+        },
+        {
+            "nombre": "Curso de Python desde 0 en 2025",
+            "estado": "En Proceso",
+            "descripcion": "Este curso está diseñado para quienes desean empezar desde cero en el mundo de la programación con Python. Aprenderás desde los conceptos más básicos hasta temas más avanzados.",
+            "portada": "python-cero-2025.png",
+            "ruta": "python-cero-2025",
+            "temario": 
+            [{
+                "seccion": "Bienvenida",
+                "temas": [
+                {
+                    "titulo": "1. Curso de Python desde cero",
+                    "video": "https://www.youtube.com/embed/tpcAeClIUGY?si=_07tpbNjUr8jXXod",
+                    "ruta": "bienvenida-curso",
+                    "pdf": "01-bienvenida-curso.pdf"
+                },
+
+
+                
+                {
+                    "titulo": "2. Que es la programación​",
+                    "video": "https://www.youtube.com/embed/RU1y2q3NpF4?si=vRlXntIMXYoXNq_-",
+                    "ruta": "que-es-la-programacion",
+                    "pdf": "02-que-es-la-programacion.pdf"
+                },
+                {
+                    "titulo": "3. Cuál es la lógica de la programación​",
+                    "video": "https://www.youtube.com/embed/3o4ltt6A4tY?si=d9OSZfrLXzdsu3sx",
+                    "ruta": "cual-es-logica-programacion",
+                    "pdf": "03-cual-es-logica-programacion.pdf"
+                },
+                {
+                    "titulo": "4. Errores comunes al pensar como programador principiante​",
+                    "video": "https://www.youtube.com/embed/PuGPjlMjvJk?si=VTtW7CFYgjTg0vtX",
+                    "ruta": "errores-comunes-programador-principiante",
+                    "pdf": "04-errores-comunes-programador-principiante.pdf"
+                },
+                {
+                    "titulo": "5. Cómo se crea un programa desde cero",
+                    "video": "https://www.youtube.com/embed/3tKHnwYbcFI?si=JKgkS0by4DUpu2r6",
+                    "ruta": "como-se-crea-un-programa-desde-cero",
+                    "pdf": "05-como-se-crea-un-programa-desde-cero.pdf"
+                },
+                {
+                    "titulo": "6. Que son los lenguajes de programación",
+                    "video": "https://www.youtube.com/embed/J4kI-OAVpkk?si=P5cGJFw2oc1KoTMm",
+                    "ruta": "que-son-los-lenguajes-programacion",
+                    "pdf": "06-que-son-los-lenguajes-programacion.pdf"
+                }
+                ]
+            },
+            ]
+        }
+    ],
 
     curso: [],
     titulo: [],
