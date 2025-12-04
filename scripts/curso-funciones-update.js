@@ -235,15 +235,15 @@ function cursoFunciones() {
                 },
                 {
                     "titulo": "9. Cómo concadenar e interpolar variables",
-                    "video": "https://www.youtube.com/embed/bCJzEaAavVo?si=QzTgxwfDkv5bF9nL",
+                    "video": "https://www.youtube.com/embed/bCJzEaAavVo?si=SbaEe8FxMINofhKf",
                     "ruta": "como-concadenar-variables",
                     "pdf": "09-como-concadenar-variable.pdf"
                 },
                 {
-                    "titulo": "10. Qué",
-                    "video": "",
-                    "ruta": "que",
-                    "pdf": "10-que.pdf"
+                    "titulo": "10. Qué es una lista y como definirla",
+                    "video": "https://www.youtube.com/embed/lZMZ18E9zHM?si=tXhhIZefurVdyCbY",
+                    "ruta": "que-es-lista",
+                    "pdf": "10-que-es-lista.pdf"
                 },
                 {
                     "titulo": "11. Como",
