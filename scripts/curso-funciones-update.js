@@ -257,6 +257,54 @@ function cursoFunciones() {
                     "ruta": "que-es-tupla",
                     "pdf": "11-que-es-tupla.pdf"
                 },
+                {
+                    "titulo": "12. Qué es un set y como definirlo",
+                    "video": "https://www.youtube.com/embed/TwRB_MURabs?si=7enL1-0EOmXTS6zN",
+                    "ruta": "que-es-set",
+                    "pdf": "12-que-es-set.pdf"
+                },
+                {
+                    "titulo": "13. Qué es un diccionario y como definirlo",
+                    "video": "https://www.youtube.com/embed/wAyZfSHatG4?si=ng48xZ4zFfP7bV00",
+                    "ruta": "que-es-diccionario",
+                    "pdf": "13-que-es-diccionario.pdf"
+                },
+                {
+                    "titulo": "14. Qué son los operadores aritméticos",
+                    "video": "https://www.youtube.com/embed/qaH2ZIuWmfA?si=Qq3rhKkQE50cYLJI",
+                    "ruta": "que-son-operadores-aritmeticos",
+                    "pdf": "14-que-son-operadores-aritmeticos.pdf"
+                },
+                {
+                    "titulo": "15. Qué son los operadores de asignación",
+                    "video": "https://www.youtube.com/embed/xly7cLrtz0w?si=je4fzJysmzTrCH4v",
+                    "ruta": "que-son-operadores-asignacion",
+                    "pdf": "15-que-son-operadores-asignacion.pdf"
+                },
+                {
+                    "titulo": "16. Qué son los operadores de comparación",
+                    "video": "https://www.youtube.com/embed/s75Dsi-R2sM?si=UhZXpW25uDAhm9bJ",
+                    "ruta": "que-son-operadores-asignacion",
+                    "pdf": "16-que-son-operadores-asignacion.pdf"
+                },
+                {
+                    "titulo": "17. Qué son los operadores lógicos",
+                    "video": "https://www.youtube.com/embed/F6EnLiL1S6U?si=5EOLvBpiEsuDXRCJ",
+                    "ruta": "que-son-operadores-logicos",
+                    "pdf": "17-que-son-operadores-logicos.pdf"
+                },
+                {
+                    "titulo": "18. Qué son los operadores de identidad",
+                    "video": "https://www.youtube.com/embed/-C_OFAU_xQ4?si=MV3HQXPgnNGjzuEF",
+                    "ruta": "que-son-operadores-identidad",
+                    "pdf": "18-que-son-operadores-identidad.pdf"
+                },
+                {
+                    "titulo": "19. Qué son los operadores de pertenencia",
+                    "video": "https://www.youtube.com/embed/2H3Nu4fMTlw?si=i3KdJSf-Dygg2Hfz",
+                    "ruta": "que-son-operadores-pertenencia",
+                    "pdf": "19-que-son-operadores-pertenencia.pdf"
+                },
                 ]
             }]
         }
