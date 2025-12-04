@@ -228,16 +228,16 @@ function cursoFunciones() {
                     "pdf": "07-como-definir-variable.pdf"
                 },
                 {
-                    "titulo": "8. Cómo concadenar e interpolar variables",
-                    "video": "https://www.youtube.com/embed/bCJzEaAavVo?si=QzTgxwfDkv5bF9nL",
-                    "ruta": "como-concadenar-variables",
-                    "pdf": "08-como-concadenar-variables.pdf"
+                    "titulo": "8. Cómo definir y mostrar el valor de una constante",
+                    "video": "https://www.youtube.com/embed/ZxTSiq-X71Y?si=_--pflM5dpKLDz6J",
+                    "ruta": "como-definir-constante",
+                    "pdf": "08-como-definir-constante.pdf"
                 },
                 {
-                    "titulo": "9. Cómo",
-                    "video": "",
-                    "ruta": "como",
-                    "pdf": "09-como.pdf"
+                    "titulo": "9. Cómo concadenar e interpolar variables",
+                    "video": "https://www.youtube.com/embed/bCJzEaAavVo?si=QzTgxwfDkv5bF9nL",
+                    "ruta": "como-concadenar-variables",
+                    "pdf": "09-como-concadenar-variable.pdf"
                 },
                 {
                     "titulo": "10. Qué",
