@@ -307,13 +307,13 @@ function cursoFunciones() {
                 },
                 {
                     "titulo": "20. Cuál es la estructura condicional simple IF",
-                    "video": "",
+                    "video": "https://www.youtube.com/embed/bljs7PqmbVk?si=hyS3sHy-NuKoUvaX",
                     "ruta": "cual-es-estructura-if",
                     "pdf": "20-cual-es-estructura-if.pdf"
                 },
                 {
                     "titulo": "21. Cuál es la estructura condicional doble IF ELSE",
-                    "video": "",
+                    "video": "https://www.youtube.com/embed/YWm29tkcSX0?si=jcZNcyuT4nU7utSy",
                     "ruta": "cual-es-estructura-if-else",
                     "pdf": "21-cual-es-estructura-if-else.pdf"
                 },
