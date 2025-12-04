@@ -313,7 +313,7 @@ function cursoFunciones() {
                 },
                 {
                     "titulo": "21. Cuál es la estructura condicional doble IF ELSE",
-                    "video": "https://www.youtube.com/embed/YWm29tkcSX0?si=jcZNcyuT4nU7utSy",
+                    "video": "https://www.youtube.com/embed/VjKq2IEymRs?si=OH4C4gFUY5F7fKPk",
                     "ruta": "cual-es-estructura-if-else",
                     "pdf": "21-cual-es-estructura-if-else.pdf"
                 },
