@@ -305,6 +305,18 @@ function cursoFunciones() {
                     "ruta": "que-son-operadores-pertenencia",
                     "pdf": "19-que-son-operadores-pertenencia.pdf"
                 },
+                {
+                    "titulo": "20. Cuál es la estructura condicional simple IF",
+                    "video": "",
+                    "ruta": "cual-es-estructura-if",
+                    "pdf": "20-cual-es-estructura-if.pdf"
+                },
+                {
+                    "titulo": "21. Cuál es la estructura condicional doble IF ELSE",
+                    "video": "",
+                    "ruta": "cual-es-estructura-if-else",
+                    "pdf": "21-cual-es-estructura-if-else.pdf"
+                },
                 ]
             }]
         }
