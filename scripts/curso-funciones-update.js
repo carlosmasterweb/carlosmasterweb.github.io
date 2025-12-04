@@ -246,11 +246,17 @@ function cursoFunciones() {
                     "pdf": "10-que-es-lista.pdf"
                 },
                 {
-                    "titulo": "11. Como",
-                    "video": "",
-                    "ruta": "como",
-                    "pdf": "11-como.pdf"
-                }
+                    "titulo": "11. Qué es una tupla y como definirla",
+                    "video": "https://www.youtube.com/embed/AcWkQ0E79RI?si=G416l3FZO7gIE0CK",
+                    "ruta": "que-es-tupla",
+                    "pdf": "11-que-es-tupla.pdf"
+                },
+                {
+                    "titulo": "11. Qué es una tupla y como definirla",
+                    "video": "https://www.youtube.com/embed/AcWkQ0E79RI?si=G416l3FZO7gIE0CK",
+                    "ruta": "que-es-tupla",
+                    "pdf": "11-que-es-tupla.pdf"
+                },
                 ]
             }]
         }
