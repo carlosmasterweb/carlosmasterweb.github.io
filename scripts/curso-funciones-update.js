@@ -317,6 +317,12 @@ function cursoFunciones() {
                     "ruta": "cual-es-estructura-if-else",
                     "pdf": "21-cual-es-estructura-if-else.pdf"
                 },
+                {
+                    "titulo": "22. Cuál es la estructura condicional múltiple IF - ELIF",
+                    "video": "https://www.youtube.com/embed/FZywdWCwSm8?si=O9O6HkaGOq2KvSTC",
+                    "ruta": "cual-es-estructura-if-elif",
+                    "pdf": "22-cual-es-estructura-if-elif.pdf"
+                },
                 ]
             }]
         }
