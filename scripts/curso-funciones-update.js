@@ -347,6 +347,12 @@ function cursoFunciones() {
                     "ruta": "como-usar-ciclo-while",
                     "pdf": "26-como-usar-ciclo-while.pdf"
                 },
+                {
+                    "titulo": "27. Como usar el ciclo for",
+                    "video": "https://www.youtube.com/embed/rTSOXuT-hRA?si=_WoDMa0BsIEco0w2",
+                    "ruta": "como-usar-ciclo-for",
+                    "pdf": "27-como-usar-ciclo-for.pdf"
+                },
                 ]
             }]
         }
