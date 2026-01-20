@@ -332,8 +332,14 @@ function cursoFunciones() {
                 {
                     "titulo": "24. Qué son las estructuras condicionales anidadas",
                     "video": "https://www.youtube.com/embed/488AzqtCQ6k?si=Y2eWnoxrwY1w_zgZ",
-                    "ruta": "cual-es-el-operador-ternario",
-                    "pdf": "23-cual-es-el-operador-ternario.pdf"
+                    "ruta": "cual-es-estructura-condicional-anidada",
+                    "pdf": "24-cual-es-estructura-condicional-anidada.pdf"
+                },
+                {
+                    "titulo": "25. Qué son las estructuras de selección múltiple switch (match)",
+                    "video": "https://www.youtube.com/embed/X6n1I6T27fc?si=tWhNGRKM8_2NR3sn",
+                    "ruta": "que-son-estructuras-switch",
+                    "pdf": "25-que-son-estructuras-switch.pdf"
                 },
                 ]
             }]
