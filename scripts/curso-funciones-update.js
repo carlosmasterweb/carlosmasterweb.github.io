@@ -329,6 +329,12 @@ function cursoFunciones() {
                     "ruta": "cual-es-el-operador-ternario",
                     "pdf": "23-cual-es-el-operador-ternario.pdf"
                 },
+                {
+                    "titulo": "24. Qué son las estructuras condicionales anidadas",
+                    "video": "https://www.youtube.com/embed/488AzqtCQ6k?si=Y2eWnoxrwY1w_zgZ",
+                    "ruta": "cual-es-el-operador-ternario",
+                    "pdf": "23-cual-es-el-operador-ternario.pdf"
+                },
                 ]
             }]
         }
