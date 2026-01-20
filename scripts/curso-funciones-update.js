@@ -323,6 +323,12 @@ function cursoFunciones() {
                     "ruta": "cual-es-estructura-if-elif",
                     "pdf": "22-cual-es-estructura-if-elif.pdf"
                 },
+                {
+                    "titulo": "23. Cuál es el operador Ternario",
+                    "video": "https://www.youtube.com/embed/m2PJZ9aimHw?si=k8a2Xr5g2m_4XI0s",
+                    "ruta": "cual-es-el-operador-ternario",
+                    "pdf": "23-cual-es-el-operador-ternario.pdf"
+                },
                 ]
             }]
         }
