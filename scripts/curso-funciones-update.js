@@ -341,6 +341,12 @@ function cursoFunciones() {
                     "ruta": "que-son-estructuras-switch",
                     "pdf": "25-que-son-estructuras-switch.pdf"
                 },
+                {
+                    "titulo": "26. Como usar el ciclo while",
+                    "video": "https://www.youtube.com/embed/hbR741QKMUw?si=CDCM5a34Zb_FyeU-",
+                    "ruta": "como-usar-ciclo-while",
+                    "pdf": "26-como-usar-ciclo-while.pdf"
+                },
                 ]
             }]
         }
