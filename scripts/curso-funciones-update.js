@@ -353,6 +353,12 @@ function cursoFunciones() {
                     "ruta": "como-usar-ciclo-for",
                     "pdf": "27-como-usar-ciclo-for.pdf"
                 },
+                {
+                    "titulo": "28. Como usar la función Input",
+                    "video": "https://www.youtube.com/embed/GqhfXMxFWzo?si=fnmh8IgTULUD_TYW",
+                    "ruta": "como-usar-funcion-input",
+                    "pdf": "28-como-usar-funcion-input.pdf"
+                },
                 ]
             }]
         }
