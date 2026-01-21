@@ -371,6 +371,12 @@ function cursoFunciones() {
                     "ruta": "que-son-como-crear-funciones",
                     "pdf": "30-que-son-como-crear-funciones.pdf"
                 },
+                {
+                    "titulo": "31. Cuales son los parámetros y valores en las funciones",
+                    "video": "https://www.youtube.com/embed/6rjB5Nv-P6E?si=SFC4ZIT4ta1Q8qkl",
+                    "ruta": "cuales-son-parametros-valores-funciones",
+                    "pdf": "31-cuales-son-parametros-valores-funciones.pdf"
+                },
                 ]
             }]
         }
