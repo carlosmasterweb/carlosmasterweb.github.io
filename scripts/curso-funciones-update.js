@@ -401,6 +401,12 @@ function cursoFunciones() {
                     "ruta": "como-crear-propios-modulos",
                     "pdf": "35-como-crear-propios-modulos.pdf"
                 },
+                {
+                    "titulo": "36. Como leer archivos de texto",
+                    "video": "https://www.youtube.com/embed/xkfVXR7TWfs?si=ala8Pl3nhiPHd7ju",
+                    "ruta": "como-leer-archivos-texto",
+                    "pdf": "36-como-leer-archivos-texto.pdf"
+                },
                 ]
             }]
         }
