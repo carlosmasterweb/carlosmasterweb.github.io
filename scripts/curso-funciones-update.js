@@ -425,6 +425,12 @@ function cursoFunciones() {
                     "ruta": "como-manejo-errores",
                     "pdf": "39-como-manejo-errores.pdf"
                 },
+                {
+                    "titulo": "40. Fin del curso de Python en 2025",
+                    "video": "https://www.youtube.com/embed/Td2dHQvWLbA?si=v0YxkT0dhQwx3AP4",
+                    "ruta": "fin-curso-python-2025",
+                    "pdf": "40-fin-curso-python-2025.pdf"
+                },
                 ]
             }]
         }
