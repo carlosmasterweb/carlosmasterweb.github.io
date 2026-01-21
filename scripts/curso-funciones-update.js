@@ -365,6 +365,12 @@ function cursoFunciones() {
                     "ruta": "como-hacer-validaciones-inputs",
                     "pdf": "29-como-hacer-validaciones-inputs.pdf"
                 },
+                {
+                    "titulo": "30. Que son y como crear funciones",
+                    "video": "https://www.youtube.com/embed/3WVXPdi3slM?si=aSMQGhiRDR_AGVT1",
+                    "ruta": "como-hacer-validaciones-inputs",
+                    "pdf": "29-como-hacer-validaciones-inputs.pdf"
+                },
                 ]
             }]
         }
