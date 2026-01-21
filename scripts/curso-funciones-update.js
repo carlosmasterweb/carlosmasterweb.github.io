@@ -389,6 +389,12 @@ function cursoFunciones() {
                     "ruta": "variables-locales-globales",
                     "pdf": "33-variables-locales-globales.pdf"
                 },
+                {
+                    "titulo": "34. Como usar y qué son los módulos",
+                    "video": "https://www.youtube.com/embed/oTlJN--PIbE?si=Qd7uvglR6Q5sTU9-",
+                    "ruta": "como-usar-que-son-modulos",
+                    "pdf": "34-como-usar-que-son-modulos.pdf"
+                },
                 ]
             }]
         }
