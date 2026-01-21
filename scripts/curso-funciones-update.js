@@ -383,6 +383,12 @@ function cursoFunciones() {
                     "ruta": "como-hacer-usar-funciones-lambda",
                     "pdf": "32-como-hacer-usar-funciones-lambda.pdf"
                 },
+                {
+                    "titulo": "33. Que son Variables locales y globales",
+                    "video": "https://www.youtube.com/embed/f3QlwYMWhJs?si=T1E8mAEQhNg9djvV",
+                    "ruta": "variables-locales-globales",
+                    "pdf": "33-variables-locales-globales.pdf"
+                },
                 ]
             }]
         }
