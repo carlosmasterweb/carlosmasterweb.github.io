@@ -359,6 +359,12 @@ function cursoFunciones() {
                     "ruta": "como-usar-funcion-input",
                     "pdf": "28-como-usar-funcion-input.pdf"
                 },
+                {
+                    "titulo": "29. Como hacer validaciones de inputs",
+                    "video": "https://www.youtube.com/embed/QKSjmSof-Gc?si=gaAEmX0yWUJTtbkC",
+                    "ruta": "como-hacer-validaciones-inputs",
+                    "pdf": "29-como-hacer-validaciones-inputs.pdf"
+                },
                 ]
             }]
         }
