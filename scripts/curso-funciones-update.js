@@ -419,6 +419,12 @@ function cursoFunciones() {
                     "ruta": "como-leer-archivos-csv",
                     "pdf": "38-como-leer-archivos-csv.pdf"
                 },
+                {
+                    "titulo": "39. Como es el Manejo de errores",
+                    "video": "https://www.youtube.com/embed/edWVwFQmCyE?si=u06r6CRoLq8hKOXD",
+                    "ruta": "como-manejo-errores",
+                    "pdf": "39-como-manejo-errores.pdf"
+                },
                 ]
             }]
         }
