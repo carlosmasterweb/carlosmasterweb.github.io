@@ -413,6 +413,12 @@ function cursoFunciones() {
                     "ruta": "como-modificar-archivos",
                     "pdf": "37-como-modificar-archivos.pdf"
                 },
+                {
+                    "titulo": "38. Como Leer archivos CSV",
+                    "video": "https://www.youtube.com/embed/IHROOVkR2FQ?si=mAhgGjVieIeM3o8k",
+                    "ruta": "como-leer-archivos-csv",
+                    "pdf": "38-como-leer-archivos-csv.pdf"
+                },
                 ]
             }]
         }
