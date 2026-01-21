@@ -395,6 +395,12 @@ function cursoFunciones() {
                     "ruta": "como-usar-que-son-modulos",
                     "pdf": "34-como-usar-que-son-modulos.pdf"
                 },
+                {
+                    "titulo": "35. Como crear tus propios módulos",
+                    "video": "https://www.youtube.com/embed/mL6oI-8NQeU?si=IxEBsyBnJVn9a7_k",
+                    "ruta": "como-crear-propios-modulos",
+                    "pdf": "35-como-crear-propios-modulos.pdf"
+                },
                 ]
             }]
         }
