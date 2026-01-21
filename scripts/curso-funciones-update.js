@@ -377,6 +377,12 @@ function cursoFunciones() {
                     "ruta": "cuales-son-parametros-valores-funciones",
                     "pdf": "31-cuales-son-parametros-valores-funciones.pdf"
                 },
+                {
+                    "titulo": "32. Como hacer y usar funciones Lambda",
+                    "video": "https://www.youtube.com/embed/wu_6yND3HFI?si=3rji5Kw4N1KulAQ4",
+                    "ruta": "como-hacer-usar-funciones-lambda",
+                    "pdf": "32-como-hacer-usar-funciones-lambda.pdf"
+                },
                 ]
             }]
         }
