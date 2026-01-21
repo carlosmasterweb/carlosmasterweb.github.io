@@ -407,6 +407,12 @@ function cursoFunciones() {
                     "ruta": "como-leer-archivos-texto",
                     "pdf": "36-como-leer-archivos-texto.pdf"
                 },
+                {
+                    "titulo": "37. Como modificar archivos",
+                    "video": "https://www.youtube.com/embed/oH1F3CwDAjE?si=thlx9PsLA0PZ2KmN",
+                    "ruta": "como-modificar-archivos",
+                    "pdf": "37-como-modificar-archivos.pdf"
+                },
                 ]
             }]
         }
