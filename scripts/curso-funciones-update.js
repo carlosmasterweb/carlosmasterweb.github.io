@@ -2,16 +2,6 @@ function cursoFunciones() {
     return {
     cursos: [
         {
-            "nombre": "Curso de Python desde 0 para principiantes",
-            "estado": "Finalizado",
-            "descripcion": "Este curso está diseñado para quienes desean empezar desde cero en el mundo de la programación con Python. Aprenderás desde los conceptos más básicos hasta temas más avanzados.",
-            "portada": "curso-python.png",
-            "ruta": "curso-python",
-            "temario": 
-            [
-            ]
-        },
-        {
             "nombre": "Curso de fundamentos de programación",
             "estado": "Finalizado",
             "descripcion": "Bienvenido al Curso de Fundamentos de Programación desde Cero. Aprenderás los conceptos básicos que todo programador necesita dominar. No importa si nunca has escrito una línea de código.",
