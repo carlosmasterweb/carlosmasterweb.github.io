@@ -166,7 +166,7 @@ function cursoFunciones() {
             "nombre": "Curso de Python desde 0 en 2025",
             "estado": "En Proceso",
             "descripcion": "Este curso está diseñado para quienes desean empezar desde cero en el mundo de la programación con Python. Aprenderás desde los conceptos más básicos hasta temas más avanzados.",
-            "portada": "python-cero-2025.png",
+            "portada": "python-cero-2026.png",
             "ruta": "python-cero-2025",
             "temario": 
             [{
