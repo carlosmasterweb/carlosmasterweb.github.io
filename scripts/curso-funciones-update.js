@@ -197,7 +197,7 @@ function cursoFunciones() {
                     "pdf": "04-como-hacer-comentarios.pdf"
                 }]
             }, {
-                "seccion": "Lógica y algoritmos",
+                "seccion": "Tipos de datos y variables",
                 "temas": [
                 {
                     "titulo": "5. Cuáles son los tipos de datos",
@@ -228,7 +228,10 @@ function cursoFunciones() {
                     "video": "https://www.youtube.com/embed/bCJzEaAavVo?si=SbaEe8FxMINofhKf",
                     "ruta": "como-concadenar-variables",
                     "pdf": "09-como-concadenar-variable.pdf"
-                },
+                }]
+            }, {
+                "seccion": "Estructuras de datos",
+                "temas": [
                 {
                     "titulo": "10. Qué es una lista y como definirla",
                     "video": "https://www.youtube.com/embed/lZMZ18E9zHM?si=tXhhIZefurVdyCbY",
@@ -258,7 +261,10 @@ function cursoFunciones() {
                     "video": "https://www.youtube.com/embed/wAyZfSHatG4?si=ng48xZ4zFfP7bV00",
                     "ruta": "que-es-diccionario",
                     "pdf": "13-que-es-diccionario.pdf"
-                },
+                }]
+            }, {
+                "seccion": "Operadores en Python",
+                "temas": [
                 {
                     "titulo": "14. Qué son los operadores aritméticos",
                     "video": "https://www.youtube.com/embed/qaH2ZIuWmfA?si=Qq3rhKkQE50cYLJI",
@@ -294,7 +300,10 @@ function cursoFunciones() {
                     "video": "https://www.youtube.com/embed/2H3Nu4fMTlw?si=i3KdJSf-Dygg2Hfz",
                     "ruta": "que-son-operadores-pertenencia",
                     "pdf": "19-que-son-operadores-pertenencia.pdf"
-                },
+                }]
+            }, {
+                "seccion": "Condicionales",
+                "temas": [
                 {
                     "titulo": "20. Cuál es la estructura condicional simple IF",
                     "video": "https://www.youtube.com/embed/bljs7PqmbVk?si=hyS3sHy-NuKoUvaX",
@@ -330,7 +339,10 @@ function cursoFunciones() {
                     "video": "https://www.youtube.com/embed/X6n1I6T27fc?si=tWhNGRKM8_2NR3sn",
                     "ruta": "que-son-estructuras-switch",
                     "pdf": "25-que-son-estructuras-switch.pdf"
-                },
+                }]
+            }, {
+                "seccion": "Ciclos y entradas de datos",
+                "temas": [
                 {
                     "titulo": "26. Como usar el ciclo while",
                     "video": "https://www.youtube.com/embed/hbR741QKMUw?si=CDCM5a34Zb_FyeU-",
@@ -354,7 +366,10 @@ function cursoFunciones() {
                     "video": "https://www.youtube.com/embed/QKSjmSof-Gc?si=gaAEmX0yWUJTtbkC",
                     "ruta": "como-hacer-validaciones-inputs",
                     "pdf": "29-como-hacer-validaciones-inputs.pdf"
-                },
+                }]
+            }, {
+                "seccion": "Funciones y módulos",
+                "temas": [
                 {
                     "titulo": "30. Que son y como crear funciones",
                     "video": "https://www.youtube.com/embed/3WVXPdi3slM?si=aSMQGhiRDR_AGVT1",
@@ -390,7 +405,10 @@ function cursoFunciones() {
                     "video": "https://www.youtube.com/embed/mL6oI-8NQeU?si=IxEBsyBnJVn9a7_k",
                     "ruta": "como-crear-propios-modulos",
                     "pdf": "35-como-crear-propios-modulos.pdf"
-                },
+                }]
+            }, {
+                "seccion": "Archivos y manejo de errores",
+                "temas": [
                 {
                     "titulo": "36. Como leer archivos de texto",
                     "video": "https://www.youtube.com/embed/xkfVXR7TWfs?si=ala8Pl3nhiPHd7ju",
@@ -414,7 +432,10 @@ function cursoFunciones() {
                     "video": "https://www.youtube.com/embed/edWVwFQmCyE?si=u06r6CRoLq8hKOXD",
                     "ruta": "como-manejo-errores",
                     "pdf": "39-como-manejo-errores.pdf"
-                },
+                }]
+            }, {
+                "seccion": "Cierre del curso",
+                "temas": [
                 {
                     "titulo": "40. Fin del curso de Python en 2025",
                     "video": "https://www.youtube.com/embed/Td2dHQvWLbA?si=v0YxkT0dhQwx3AP4",
